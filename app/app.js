@@ -1,0 +1,1 @@
+console.log("Jenkins automation pipeline is running successfully.");
